@@ -1,0 +1,33 @@
+.div1{
+color:black;
+font-weight:bold;
+font-size:60px;
+font-family:Algerian;
+text-align:center;
+}
+.div2{
+color:red;
+font-weight:bold;
+font-size:40px;
+font-family:Monotype corsiva;
+text-align:center;
+}
+.p1{
+color:navy;
+font-size:35px;
+font-family:Mistral;
+}
+.p2{
+color:#FA8088;
+font-weight:bold;
+font-size:50px;
+font-style:italic;
+font-family:Edwardian Script;
+text-shadow:3px 3px green;
+}
+table, th, td{
+border:1px solid black;
+border-collapse:collapse;
+
+}
+	

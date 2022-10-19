@@ -1,0 +1,46 @@
+id="F4" name="F4"><br>//dob
+<input type="submit" name="sub"> //submit button
+
+		Gender:
+<fieldset>
+    <legend>Select a Location: </legend>
+    <label for="radio-1">Male</label>
+    <input type="radio" name="F5" id="F5">
+    <label for="radio-2">Female</label>
+    <input type="radio" name="F5" id="F5"></div>
+	</fieldset>
+	<h2>Radio Group</h2>
+  <fieldset>
+    <legend>Select a Location: </legend>
+    <label for="radio-1">New York</label>
+    <input type="radio" name="radio-1" id="radio-1">
+    <label for="radio-2">Paris</label>
+    <input type="radio" name="radio-1" id="radio-2">
+    <label for="radio-3">London</label>
+    <input type="radio" name="radio-1" id="radio-3">
+  </fieldset
+  
+  this is the index page of webpage
+return "Hello javaTpoint...<br> ID is: ".$id;
+
+
+
+
+
+
+
+
+
+
+
+<h7><b>Whether the candidate is:- </b></h7>
+						<div class="form-group">
+						<label for="checkbox">Optional:</label></br>
+						<label for="checkbox"> (i) Single Girl child : </label>&nbsp; Yes&nbsp;<input type="checkbox" name="optional" value="yes" checked /> 
+						  No&nbsp;<input type="checkbox" name="optional" value="no" /> </div></br>
+						  <div class="form-group">
+						<label for="text">(ii) Specially abled (Divyangjan) : </label>&nbsp; Yes&nbsp;<input type="checkbox" name="optional" value="yes" checked /> 
+						  No&nbsp;<input type="checkbox" name="optional" value="no" /> </div></br>
+						  <div class="form-group">
+						<label for="text"> (iii) Belonging to the EWS : </label>&nbsp; Yes&nbsp;<input type="checkbox" name="optional" value="yes" checked /> 
+						  No&nbsp;<input type="checkbox" name="optional" value="no" /> </div></br>
