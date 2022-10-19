@@ -72,6 +72,7 @@ Name: <input type="text" id="F1" name="F1"><br>
 Father's Name: <input type="text" id="F2" name="F2"><br>
 Mother's Name: <input type="text" id="F3" name="F3"><br>
 D.O.B.: <input type="text" id="datepicker" name="datepicker">&nbsp;&nbsp;
+Address:<input type="text" id="F3" name="F3"><br>
 Format options:
 	<select id="format">
 	<option value="mm/dd/yy">Default - mm/dd/yy</option>
