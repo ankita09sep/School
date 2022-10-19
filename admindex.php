@@ -167,7 +167,7 @@ Principal</b></p>
  
  <div class="form-group">
  <label for="radio"></label>
-              <input type="radio" name="new application" id="new application" value="new application" checked="checked" required="already applied"> New application
+              <input type="radio" name="new application" id="new application" value="new application" checked="checked"> New application
                   <input type="radio" name="new application" id="already applied" value="already applied"> Already applied
                     </div></br>
 					<div class="form-group">
