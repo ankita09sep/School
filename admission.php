@@ -44,7 +44,7 @@
           <div class="card-body p-4 p-md-5">
 
 
-            <h1 class="mb-4 pb-2 pb-md-0 mb-md-5"><center><b><u>AIWC ACADEMY OF EXCELLENCE </u></b></center></h1>
+            <h1 class="mb-4 pb-2 pb-md-0 mb-md-5"><center><b><u>AIWC ACADEMY OF EXCELLENCE ::</u></b></center></h1>
 <h6>Dihing Road ,Old Baridih,Jamshedpur-831017</br>
 E-mail : aiwcaoe2003@gmail.com/icon</br>
 Telephone : 0657-2213349</h6></br>
